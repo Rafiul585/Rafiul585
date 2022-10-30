@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋
+### Hi there 👋
 
 
 Here are some ideas to knowing me:
@@ -12,7 +12,7 @@ Here are some ideas to knowing me:
 - 🧰 Everyday Tools: Clipy, iTerm, ZSH, PHPStorm, Sublime Text, Bash Script
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid&show_icons=true&theme=vision-friendly-dark)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid&show_icons=true&theme=vision-friendly-dark)
 
 ### MyStack
 ![Python](https://img.shields.io/badge/python-%23777BB4.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -42,5 +42,5 @@ Here are some ideas to knowing me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahidbinazhar/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/to.nahid)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://twitter.com/nahidbinazhar)
- -->
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://twitter.com/nahidbinazhar) -->
+
