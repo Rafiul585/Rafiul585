@@ -4,12 +4,12 @@
 Here are some ideas to knowing me:
 
 - 🔭 I’m currently working on Python and Django
-- 🌱 I’m currently learning FastAPI, Micro-service Arhcitechture
-- 👯 I’m looking to collaborate on Laravel Talk package
-- 💬 Ask me about modern PHP and DX
-- 📫 How to reach me: nahid.dns@gmail.com
-- ⚡  Fun fact: I love cooking
-- 🧰 Everyday Tools: Clipy, iTerm, ZSH, PHPStorm, Sublime Text, Bash Script
+- 🌱 I’m currently learning QraphQL, FastAPI, Micro-service Arhcitechture
+- 👯 I’m looking to collaborate on python and node package
+- 💬 Ask me about modern JS and Python
+- 📫 How to reach me: badhonngc@gmail.com
+- ⚡  Fun fact: I love to watch football
+- 🧰 Everyday Tools: Visual Studio Code, Py Console, Pycharm, SQLyog, Bash Script, SQL Server Management Studio
 
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid&show_icons=true&theme=vision-friendly-dark)
