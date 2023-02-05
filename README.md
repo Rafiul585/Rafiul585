@@ -9,7 +9,7 @@ Here are some ideas to knowing me:
 - 💬 Ask me about modern JS and Python
 - 📫 How to reach me: badhonngc@gmail.com
 - ⚡  Fun fact: I love to watch football
-- 🧰 Everyday Tools: Visual Studio Code, Py Console, Pycharm, SQLyog, Bash Script, SQL Server Management Studio
+- 🧰 Everyday Tools: Visual Studio Code, Py Console, Pycharm, SQLyog, Bash Script, SQL Server Management Studio, Docker
 
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid&show_icons=true&theme=vision-friendly-dark)
