@@ -1,20 +1,6 @@
-<!-- ### Hi there 👋 -->
 
 
-<!-- Here are some ideas to knowing me:
-
-- 🔭 I’m currently working on Python and Django
-- 🌱 I’m currently learning QraphQL, FastAPI, Micro-service Arhcitechture
-- 👯 I’m looking to collaborate on python and node package
-- 💬 Ask me about modern JS and Python
-- 📫 How to reach me: badhonngc@gmail.com
-- ⚡  Fun fact: I love to watch football
-- 🧰 Everyday Tools: Visual Studio Code, Py Console, Pycharm, SQLyog, Bash Script, SQL Server Management Studio, Docker -->
-
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid&show_icons=true&theme=vision-friendly-dark)
-
-### MyStack
+<!-- ### MyStack
 ![Python](https://img.shields.io/badge/python-%23777BB4.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -36,22 +22,26 @@
 ![Pycharm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![Visual Studio Code](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) -->
 
-### Find me on
+<!-- ### Find me on
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahidbinazhar/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/to.nahid)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://twitter.com/nahidbinazhar) -->
 
 ## Hi there 👋 
-Here is a short description of my current work-
+Here are some ideas to knowing me:
 
-- I am currently working on Python 3.11 and PHP 8.x
-- Currently i am learning Micro-service Arhcitechture
-- How to reach me: mahabub.prog@gmail.com
+- 🔭 I’m currently working on Python and Django
+- 🌱 I’m currently learning QraphQL, FastAPI, Micro-service Arhcitechture
+- 👯 I’m looking to collaborate on python and node package
+- 💬 Ask me about modern JS and Python
+- 📫 How to reach me: badhonngc@gmail.com
+- ⚡  Fun fact: I love to watch football
+- 🧰 Everyday Tools: Visual Studio Code, Py Console, Pycharm, SQLyog, Bash Script, SQL Server Management Studio, Docker
 
-![Mahabubur Rahman's github stats](https://github-readme-stats.vercel.app/api?username=engrmahabub&show_icons=true&theme=vision-friendly-dark)
+![Rafiul's github stats](https://github-readme-stats.vercel.app/api?username=rafiul585&show_icons=true&theme=vision-friendly-dark)
 
 
 ## My Stack
