@@ -1,4 +1,4 @@
-Hello! 👋 It's great to learn a little about you! Here are some ways to make your introduction more engaging and polished:
+Hello! 👋
 
 - 🔭 I am currently diving deep into Python, Django and FastAPI, crafting robust web applications with scalable backend architectures.
 - 🌱 In my free time, I enjoy exploring technologies, such as GraphQL, and Micro-service Architecture, to keep up with the latest industry trends and best practices.
